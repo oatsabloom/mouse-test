@@ -82,7 +82,7 @@
 	power-gpios = <&gpio0 14 (GPIO_ACTIVE_LOW)>;
     };
 };
-
+//
 // &gpio0 {
 //     fastbatcharge: fast-battery-charge {
 //         gpio-hog;
